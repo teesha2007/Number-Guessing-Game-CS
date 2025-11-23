@@ -1,0 +1,13 @@
+# Byte-code files from Python
+__pycache__/
+
+# Dependencies (if a virtual environment is used)
+venv/
+.venv/
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+
+# VS Code specific files
+.vscode/
